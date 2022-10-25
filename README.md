@@ -3,7 +3,7 @@
 l I V E APP:   https://music-lyricks-app.netlify.app/
 
 Develop an elegant React.js Music App
-This app is  an avdvance Practice i did that contains both API intergration,Reack hooks,Redux and Tailwind Css. 
+This app is  an advance Practice i did that contains both API integration,React hooks,Redux and Tailwind Css. 
 
 <img width="1383" alt="Screen Shot 2022-10-17 at 4 34 00 PM" src="https://user-images.githubusercontent.com/31152976/196581960-dc691a02-c0e7-436e-b65a-7d16b6d451c2.png">
 
